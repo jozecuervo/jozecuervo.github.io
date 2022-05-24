@@ -14,7 +14,11 @@
 - Prototyping, reverse-engineering, researching and developing new technology and integrations
 - Oauth, i18n, analytics, automated testing, A-B testing.
 
-#### SENIOR SOFTWARE ENGINEER, PANDORA, CE TEAM, DEC 2015 - PRESENT
+#### SENIOR SOFTWARE ENGINEER, NEXTROLL Inc., JUN 2017 - Present
+ - Managed react componentry, style guide, core front end libraries and integrations
+ - Standardized build, test and performance monitoring systems
+ - Coordinated infrastructure migrations, upgrades and optimizations across teams
+#### SENIOR SOFTWARE ENGINEER, PANDORA, CE TEAM, DEC 2015 - MAR 2017
 - Google chromecast for on-demand redesign (owned UI)
 - Pandora Connect auth flow (for Uber)
 - HTML5 10-foot UI for smart TV's (LG, Samsung, Android TV, etc)
