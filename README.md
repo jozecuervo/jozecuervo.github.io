@@ -1,10 +1,12 @@
 # José Miguel Hernandez
-Analyzing your resume, it's evident that your experience section contains several elements that could be more prominently reflected in the skills section to elevate your strong points. Additionally, given your extensive experience, adding a summary at the top of your resume could effectively highlight your professional journey and key strengths. Here's how you can make these enhancements:
 
-### Summary
+### CONTACT
+Email: [me@jose.io](mailto:me@jose.io)
+
+### SUMMARY
 A seasoned Senior Software Engineer with over 20 years in the tech industry, blending full-stack development expertise with a keen focus on user experience and AI-driven solutions. Demonstrates a director-like approach to understanding and enhancing the user journey, paralleled with strong technical leadership and innovative design skills. Committed to mentoring talent and fostering collaborative team environments while driving technological advancements in high-profile projects.
 
-### Skills
+### SKILLS
 - **Full Stack Web Development & Leadership**: Proficient in modern JavaScript frameworks (React, Redux), and front-end technologies (Canvas, SVG, SCSS), coupled with back-end development expertise (Node.js, Python, Java). Proven leadership in steering development teams and maintaining high standards in diverse web environments.
 - **AI-Driven Innovation in Advertising**: Pioneering in the integration of AI into advertising products, enhancing user engagement and effectiveness through innovative technology.
 - **User-Centric Development & Design**: Skilled in creating intuitive and engaging user experiences. Applies a deep understanding of user needs to guide the development of user-friendly interfaces and products.
@@ -12,7 +14,7 @@ A seasoned Senior Software Engineer with over 20 years in the tech industry, ble
 - **Design & Digital Imaging**: Proficient in Adobe Photoshop and Figma, with a strong background in digital design and imaging. Combines technical skills with a creative vision to produce high-quality visual content.
 - **Mentorship & Engineering Culture**: Passionate about mentoring emerging talent and enhancing the engineering culture through organizing hackathons, tech talks, and community events.
 
-### Experience
+### EXPERIENCE
 
 #### Senior Software Engineer, NextRoll, San Francisco (Jun 2017 - Present)
 - **Creatives Team (Current Role)**: Lead the integration of AI into ad products, working closely with ML engineers. Pioneering innovative AI-driven advertising solutions.
@@ -48,5 +50,11 @@ Developed cutting-edge prototypes for integrating instant messaging, social netw
 Led the rebuild of mecamessenger.com, enhancing its capabilities as a white-label social network.
 
 ### EDUCATION
-B.A. in Film And Digital Media, UC Santa Cruz, 2004.
-A.A./A.S. Digital Arts Program, Cuesta College, 2002.
+- B.A. in Film And Digital Media, UC Santa Cruz, 2004.
+- A.A./A.S. Digital Arts Program, Cuesta College, 2002.
+
+### PROFESSIONAL DIVERSITY
+- Carpentry: Experienced professional carpenter, adept in both creative and structural woodworking projects.
+- Mechanics: Skilled in small engine and tractor mechanics, demonstrating practical problem-solving abilities and technical proficiency.
+- Adventure Sports: An avid snowboarder who has explored slopes in five countries, showcasing a spirit of adventure and resilience.
+- Outdoor Leadership: Successfully charted and navigated a 21-day rafting expedition down the Grand Canyon, highlighting leadership and navigation skills in challenging environments.
