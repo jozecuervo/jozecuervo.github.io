@@ -1,19 +1,22 @@
 # José Miguel Hernandez
+Analyzing your resume, it's evident that your experience section contains several elements that could be more prominently reflected in the skills section to elevate your strong points. Additionally, given your extensive experience, adding a summary at the top of your resume could effectively highlight your professional journey and key strengths. Here's how you can make these enhancements:
 
-### SKILLS
-- Full Stack Web Development: Proficient in modern JavaScript frameworks (e.g., React, Redux), along with front-end technologies like Canvas, SVG, and SCSS. Experienced in back-end development with Node.js, Python, Java.
-- Cloud Services and DevOps: Familiarity with cloud platforms (AWS, GCP) and DevOps practices, enhancing project scalability and deployment efficiency.
-- AI and Machine Learning Fundamentals: Understanding of AI and machine learning principles, keeping pace with technological advancements.
-- Design and Digital Imaging: Expertise in digital design, imaging, and asset workflow management, ensuring high-quality visual content.
-- Agile Methodologies: Proficient in Agile, Scrum, JIRA, and Pivotal Tracker, ensuring efficient and flexible project management.
-- Soft Skills: Strong problem-solving, adaptability, and collaborative skills, crucial in dynamic team environments.
-- Remote Collaboration: Experienced in remote work and online collaboration tools, adaptable to various work settings.
+### Summary
+A seasoned Senior Software Engineer with over 20 years in the tech industry, blending full-stack development expertise with a keen focus on user experience and AI-driven solutions. Demonstrates a director-like approach to understanding and enhancing the user journey, paralleled with strong technical leadership and innovative design skills. Committed to mentoring talent and fostering collaborative team environments while driving technological advancements in high-profile projects.
 
-### EXPERIENCE
+### Skills
+- **Full Stack Web Development & Leadership**: Proficient in modern JavaScript frameworks (React, Redux), and front-end technologies (Canvas, SVG, SCSS), coupled with back-end development expertise (Node.js, Python, Java). Proven leadership in steering development teams and maintaining high standards in diverse web environments.
+- **AI-Driven Innovation in Advertising**: Pioneering in the integration of AI into advertising products, enhancing user engagement and effectiveness through innovative technology.
+- **User-Centric Development & Design**: Skilled in creating intuitive and engaging user experiences. Applies a deep understanding of user needs to guide the development of user-friendly interfaces and products.
+- **Agile Project Management**: Expert in managing projects with Agile methodologies, adept at Scrum, JIRA, and Pivotal Tracker. Known for leading large-scale, cross-functional projects to successful completion.
+- **Design & Digital Imaging**: Proficient in Adobe Photoshop and Figma, with a strong background in digital design and imaging. Combines technical skills with a creative vision to produce high-quality visual content.
+- **Mentorship & Engineering Culture**: Passionate about mentoring emerging talent and enhancing the engineering culture through organizing hackathons, tech talks, and community events.
+
+### Experience
 
 #### Senior Software Engineer, NextRoll, San Francisco (Jun 2017 - Present)
 - **Creatives Team (Current Role)**: Lead the integration of AI into ad products, working closely with ML engineers. Pioneering innovative AI-driven advertising solutions.
-- **Eng Culture Squad**: Active member managing biannual Hack Week events, with several winning projects. Organize tech talks and engineering all-hands, contributing significantly to team engagement and culture.
+- **Eng Culture Squad**: Active member managing biannual Hack Week events, with several award winning projects. Organize tech talks and engineering all-hands, contributing significantly to team engagement and culture.
 - **Front End Core Team**: Oversaw React library maintenance, JavaScript build systems, and CI processes. Automated pull requests and JIRA ticketing.
 - **Customer Experience Team**: Enhanced onboarding process and company homepage, leading to improved user engagement.
 - **Ads Team**: Developed and launched new ad products, aiding company expansion into new markets.
@@ -31,18 +34,18 @@ Led a team in the development of innovative playlist converter/generator tools, 
 #### Lead Front End Engineer, Telly, San Francisco (Dec 2011 - Sep 2012)
 Spearheaded the successful rebranding from TwitVid.com to Telly.com, overseeing front-end development and integration of key features like Facebook integration and an enhanced on-boarding flow.
 
-#### Lead Software Engineer, 50 Cubes Inc, San Francisco (Jan 2009 - Oct 2011)
-Managed cross-platform integrations and led the strategic transition of character animation systems from Flash to HTML5, significantly improving mobile compatibility and performance.
+#### Director of Activation, 50 Cubes Inc, San Francisco (Jan 2009 - Oct 2011)
+Managed cross-platform social and payment integrations. Led the strategic transition of character animation systems from Flash to HTML5, significantly improving mobile compatibility and performance.
 
-#### Lead Software Engineer, AOL, San Francisco (May 2008 - Nov 2009)
+#### Senior Software Engineer, AOL, San Francisco (May 2008 - Nov 2009)
 Optimized monetization strategies for ad products reaching over 100 million users. Led the development of the in-browser JavaScript chat client for AIM, enhancing user engagement
 
-#### Senior Sales Engineer, Bebo, San Francisco (Sep 2006 - May 2008)
+#### Senior Software Engineer, Bebo, San Francisco (Sep 2006 - May 2008)
 Managed the development and analytics of targeted ad products, contributing to a significant increase in ad sales revenue. Established efficient processes for sponsorship content and ad placements.
 
 #### Software Engineer, Meca Communications, San Luis Obispo (Jan 2005 - Jun 2006)
 Developed cutting-edge prototypes for integrating instant messaging, social networking, and music applications. 
-Led the rebuild of mecamessanger.com, enhancing its capabilities as a white-label social network.
+Led the rebuild of mecamessenger.com, enhancing its capabilities as a white-label social network.
 
 ### EDUCATION
 B.A. in Film And Digital Media, UC Santa Cruz, 2004.
