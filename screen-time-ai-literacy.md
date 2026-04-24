@@ -4,6 +4,8 @@ A school screen-time survey recently asked a reasonable-sounding question: how m
 
 The immediate context is bigger than one school. The Los Angeles Times reported on April 21, 2026 that Los Angeles Unified had approved a sharp reversal in classroom technology policy: no screen access for kindergarten and first grade, tracking and limits for older students, restrictions involving platforms such as YouTube, Roblox, and Fortnite, a push toward more paper-and-pen work, possible returns to laptop carts or computer labs, and a broader cost-benefit review of classroom technology contracts.[^latimes-lausd]
 
+The federal screen-time study cited in that debate is narrower than the phrase "screen time" suggests: it measured teen weekday screen use while excluding schoolwork.[^cdc-nchs-screen] Utah's 2026 classroom technology law is also useful context because it asks whether instructional technology is safe, age-appropriate, effective, intentional, transparent to parents, and balanced with teacher-led, print-based, and analog methods.[^utah-hb273]
+
 I understand the reaction. Parents and educators are right to worry about passive video, games, ads, autoplay, algorithmic recommendations, privacy, attention, and the degree to which screens have replaced hands-on work after years of pandemic-era device expansion. But if the answer is only "less screen time," we risk making the same category error in the opposite direction.
 
 The LAUSD article itself makes the distinction visible. Much of the harm research is about out-of-school use: phones, games, scrolling, social media, and video. Yet the policy debate now reaches schoolwork screens too. That is where precision matters. Limiting YouTube autoplay, ad exposure, games, recess device use, and passive digital worksheets is a different problem from teaching students to type, write, research, code, make art, compose music, analyze data, and use AI responsibly.
@@ -46,7 +48,9 @@ One reason the "screen time" metric is misleading is that the smallest screens o
 
 A phone is portable, private, interruptive, camera-equipped, socially connected, notification-driven, and usually optimized around apps. An app-first tablet can share many of those properties. A television is also screen time, and should count, but it is more visible, more shared, and easier to bound. A desktop or laptop with a keyboard, files, creative software, and adult visibility is a different environment again.
 
-The American Academy of Pediatrics has moved away from one-size-fits-all hour limits and toward a more contextual view of media use: content, context, balance, sleep, relationships, and family expectations matter.[^aap-screen] Its newer digital-ecosystem framing also distinguishes educational and creative uses from engagement-based design risks.[^aap-digital]
+The American Academy of Pediatrics has moved away from one-size-fits-all hour limits and toward a more contextual view of media use: content, context, balance, sleep, relationships, and family expectations matter.[^aap-screen] Its 2026 digital-ecosystem framing goes further by focusing on design, business models, autoplay, targeted advertising, algorithmic feeds, privacy defaults, and whether platforms are built around children's well-being or engagement and profit.[^aap-digital]
+
+Sleep and displacement still matter. AAP sleep research links screen-based media to delayed bedtimes and reduced sleep, while CDC analyses of teen screen use associate four or more daily hours, outside schoolwork, with worse sleep, physical activity, anxiety, and depression indicators.[^aap-sleep][^cdc-pcd-health] But those sources strengthen the case for better categories, not for treating every classroom computer task as equivalent. Independent media-use research makes the same point: the useful question is not only how much time children spend with media, but what activities fill that time.[^common-sense-census]
 
 That matches what parents can observe directly. A clock alone cannot tell us whether technology is helping a child become more capable or training the child to be a passive consumer of an attention marketplace.
 
@@ -57,6 +61,8 @@ I would draw a much harder line around social media than around computers.
 That does not mean every concern should become a government ban. Parents, schools, platforms, and policymakers all have different roles. But from a parent's perspective, I do not think early access to social media is in a child's best interest. Social media combines identity, public performance, peer ranking, adult contact, private messaging, advertising, permanence, and algorithmic amplification in ways that are different from a word processor, a spreadsheet, a drawing app, a coding environment, or a music tool.
 
 The U.S. Surgeon General's 2023 advisory concluded that we cannot yet say social media is sufficiently safe for children and adolescents, and highlighted risks including harmful content, cyberbullying, body image concerns, heavy use, and sleep displacement.[^surgeon-general] The American Psychological Association takes a more conditional view, but still recommends age-appropriate design, adult monitoring for younger adolescents, social media literacy, and limits that protect sleep and physical activity.[^apa-social]
+
+This is not a fringe concern. Pew's late-2025 teen survey found that YouTube, TikTok, Instagram, and Snapchat remain widely used by U.S. teens, that over a third of teens use at least one major platform almost constantly, and that AI chatbot use is already common.[^pew-teen-2025] That combination reinforces the distinction I am trying to make: social feeds should be restricted, while AI and computer literacy should be taught deliberately.
 
 The legal angle is worth noticing without turning this into an ideological fight. The United Kingdom, the European Union, and Australia have all recognized that online platforms pose specific risks to children and have tried to answer those risks through regulation. The UK's Online Safety Act places child-safety duties on regulated online services.[^online-safety] The EU's Digital Services Act has child-protection rules and 2025 guidance focused on risks such as grooming, harmful content, addictive or problematic behavior, cyberbullying, and harmful commercial practices.[^eu-minors] Australia has gone further with a social-media minimum-age framework requiring many platforms to take reasonable steps to prevent under-16s from having accounts.[^australia-age]
 
@@ -85,7 +91,9 @@ But reducing AI to "cheating" misses the larger trend. AI is becoming a normal i
 
 Typing deserves special emphasis. Phones and tablets do not build the same fluency. The core AI interface is still language: writing instructions, asking better questions, comparing responses, editing drafts, and explaining what changed. Prompting is not magic. It is structured writing, decomposition, critique, and revision. Those are school skills.
 
-California's 2025 AI guidance explicitly frames the school task as both "learning with AI" and "learning about AI." It also defines agentic/autonomous AI and emphasizes human-centered use, privacy, academic integrity, creativity, critical thinking, and responsible implementation in TK-12 settings.[^cde-ai] UNESCO similarly frames students not just as users of AI, but as responsible co-creators who need human-centered, ethical, application, and system-design competencies.[^unesco-ai]
+This is not outside the normal school mission. California's computer science standards begin in K-2 with age-appropriate concepts such as selecting computing devices, modeling algorithms, and describing basic hardware and software problems; the standards guidance also emphasizes equity, access, creativity, and the distinction between computer science and general digital literacy.[^cde-cs]
+
+The U.S. Department of Education's 2023 AI report frames AI in education as both an opportunity and a governance problem because AI systems move beyond access to resources and toward pattern detection and automated decisions.[^usdoe-ai] California's 2025 AI guidance explicitly frames the school task as both "learning with AI" and "learning about AI." It also defines agentic/autonomous AI and emphasizes human-centered use, privacy, academic integrity, creativity, critical thinking, and responsible implementation in TK-12 settings.[^cde-ai] UNESCO similarly frames students not just as users of AI, but as responsible co-creators who need human-centered, ethical, application, and system-design competencies.[^unesco-ai]
 
 The workforce signal points the same direction. The World Economic Forum identifies AI and big data, networks and cybersecurity, and technology literacy among the fastest-growing skill areas through 2030.[^wef] Microsoft describes a shift toward human-AI agent teams and employees who build, delegate to, and manage agents.[^microsoft] McKinsey reports broad organizational AI adoption and substantial experimentation with AI agents.[^mckinsey]
 
@@ -107,6 +115,8 @@ This is not only about social media. Even well-intentioned school communication 
 - Can the child control it later?
 
 The FTC's COPPA guidance treats children's personal information broadly, including identifiers, photos, videos, audio, geolocation, and persistent identifiers.[^ftc-coppa] The U.S. Department of Education's student privacy guidance similarly treats student personally identifiable information as both direct identifiers and indirect identifiers that can trace a student's identity.[^ed-pii] School-maintained photos and videos can also become education records under FERPA depending on context.[^ed-ferpa]
+
+The Department of Education's Privacy Technical Assistance Center guidance is the more practical school-app layer: it asks schools to evaluate online educational services, vendors, terms of service, collection, use, transmission, security, and privacy obligations rather than assuming that a classroom purpose makes a tool low-risk.[^ed-online-services][^ed-tos]
 
 That is a different safety problem than raw minutes.
 
@@ -137,6 +147,8 @@ Parents and schools do not need to become antitrust lawyers. But they should und
 ## What I Would Ask Schools To Do
 
 I would not ask schools to remove technology from classrooms. I would ask them to be more precise.
+
+I would also treat access as part of the safety model. If school policy removes computers without replacing that time with explicit computer-science, typing, creative-software, research, and AI-literacy instruction, students with better home access will still get those skills and students without it will fall further behind. "Less screen time" can sound protective while quietly becoming less access to modern tools.
 
 Use more:
 
@@ -188,48 +200,82 @@ More creative, supervised, private, tool-based computer time. Less phone time, l
 
 The goal should not be less technology. The goal should be better technology use: more creation than consumption, more tools than feeds, more keyboards than touchscreens, more judgment than panic, and more containment than exposure.
 
+## Evidence Map
+
+- **Immediate policy context.** LAUSD's April 2026 classroom screen-time reversal; Utah's 2026 classroom technology law as a cleaner example of grade-band limits, teacher supervision, parent transparency, AI policy, and exceptions for computer science.
+
+- **Health, development, and media use.** AAP guidance against one-size-fits-all hour limits; AAP's 2026 digital-ecosystem framing; AAP sleep/displacement research; CDC/NCHS teen screen-time baseline; CDC health-outcome associations; Common Sense Media activity-level media-use data.
+
+- **Social media and child safety.** U.S. Surgeon General and APA advisories; Pew's late-2025 teen platform and AI chatbot data; official UK, EU, and Australian child-safety regulatory sources; Joanna Shields' official UK parliamentary/government background.
+
+- **AI, computer science, and workforce direction.** U.S. Department of Education AI governance guidance; California AI guidance; California computer science standards; UNESCO student AI competencies; workforce signals from WEF, Microsoft, and McKinsey.
+
+- **Privacy, student data, and school apps.** FTC COPPA guidance; U.S. Department of Education/SPPO guidance on student PII, photos, videos, online educational services, and model terms of service.
+
+- **Advertising, business models, and consolidation.** Meta's parent-facing safety marketing and teen ad-policy materials; FTC stealth-advertising guidance; FTC's social/video data-practices report; FTC/DOJ merger guidelines for platform concentration and acquisition patterns.
+
 ## Sources
 
-[^latimes-lausd]: Howard Blume, "LAUSD to restrict student screen time after years of encouraging classroom use," Los Angeles Times, April 21, 2026. <https://www.latimes.com/california/story/2026-04-21/lausd-screen-time-limits-school-classrooms-los-angeles>
+[^latimes-lausd]: Howard Blume, "LAUSD to restrict student screen time after years of encouraging classroom use," Los Angeles Times, April 21, 2026. Used as the immediate California policy context for the school survey. <https://www.latimes.com/california/story/2026-04-21/lausd-screen-time-limits-school-classrooms-los-angeles>
 
-[^aap-screen]: American Academy of Pediatrics, "Screen Time Guidelines." The AAP notes that there is not enough evidence for a universal safe or healthy number of screen-time hours and recommends focusing on quality, balance, content, communication, and context. <https://www.aap.org/en/patient-care/media-and-children/center-of-excellence-on-social-media-and-youth-mental-health/qa-portal/qa-portal-library/qa-portal-library-questions/screen-time-guidelines/>
+[^utah-hb273]: Utah Legislature, H.B. 273, "Classroom Technology Amendments," enrolled copy, 2026 General Session. Useful as a concrete state-law example of grade-band technology policy, balanced classroom technology use, and AI guardrails. <https://le.utah.gov/Session/2026/bills/enrolled/HB0273.pdf>
 
-[^aap-digital]: American Academy of Pediatrics / HealthyChildren, "Helping Kids Thrive in a Digital World." <https://www.healthychildren.org/English/family-life/Media/Pages/helping-kids-thrive-in-a-digital-world-AAP-policy-explained.aspx>
+[^aap-screen]: American Academy of Pediatrics, "Screen Time Guidelines." The AAP states that there is not enough evidence for a universal safe or healthy number of screen-time hours and recommends focusing on quality, balance, content, communication, and context. <https://www.aap.org/en/patient-care/media-and-children/center-of-excellence-on-social-media-and-youth-mental-health/qa-portal/qa-portal-library/qa-portal-library-questions/screen-time-guidelines/>
 
-[^surgeon-general]: U.S. Surgeon General, "Social Media and Youth Mental Health," 2023 advisory. <https://www.hhs.gov/surgeongeneral/reports-and-publications/youth-mental-health/social-media/index.html>
+[^aap-digital]: American Academy of Pediatrics / HealthyChildren, "A Child-Friendly Digital World: AAP Releases New Media Recommendations," January 20, 2026. This summarizes the 2026 AAP digital-ecosystems policy statement, including child-centered design, engagement-based business models, autoplay, targeted advertising, algorithmic feeds, privacy defaults, and policy recommendations. <https://www.healthychildren.org/English/news/Pages/creating-a-child-friendly-digital-world-AAP-releases-new-media-recommendations.aspx>
 
-[^apa-social]: American Psychological Association, "Health Advisory on Social Media Use in Adolescence." <https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use>
+[^aap-sleep]: Monique K. LeBourgeois, Lauren Hale, and Anne-Marie Chang, "Digital Media and Sleep in Childhood and Adolescence," Pediatrics, 2017. Useful for the displacement/sleep part of the screen-time concern. <https://publications.aap.org/pediatrics/article/140/Supplement_2/S92/34177/Digital-Media-and-Sleep-in-Childhood-and>
 
-[^shields]: UK Parliament, Baroness Shields parliamentary career, and GOV.UK biography. <https://members.parliament.uk/member/4325/career> and <https://www.gov.uk/government/people/baroness-joanna-shields>
+[^cdc-nchs-screen]: Benjamin Zablotsky, Basilica Arockiaraj, Gelila Haile, and Amanda E. Ng, "Daily Screen Time Among Teenagers: United States, July 2021-December 2023," CDC/NCHS Data Brief No. 513, October 2024. Important because it reports that about half of teens had four or more hours of daily screen time, while excluding schoolwork from the measure. <https://www.cdc.gov/nchs/products/databriefs/db513.htm>
 
-[^online-safety]: GOV.UK, "Online Safety Act." <https://www.gov.uk/government/collections/online-safety-act>
+[^cdc-pcd-health]: Basilica Arockiaraj, Gelila Haile, Amanda E. Ng, and Benjamin Zablotsky, "Associations Between Screen Time Use and Health Outcomes Among US Teenagers," CDC Preventing Chronic Disease, July 10, 2025. Useful for associations between four or more hours of teen screen use and sleep, physical activity, anxiety, depression, and related health indicators. <https://www.cdc.gov/pcd/issues/2025/24_0537.htm>
 
-[^eu-minors]: European Commission, "Commission publishes guidelines on the protection of minors under the Digital Services Act." <https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-protection-minors>
+[^common-sense-census]: Common Sense Media, "The Common Sense Census: Media Use by Tweens and Teens, 2021," March 9, 2022. Useful because it looks beyond raw minutes into the kinds of media activities filling children's time. <https://www.commonsensemedia.org/research/the-common-sense-census-media-use-by-tweens-and-teens-2021>
 
-[^australia-age]: Australian eSafety Commissioner, "Social media age restrictions." <https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions>
+[^surgeon-general]: U.S. Surgeon General, "Social Media and Youth Mental Health," 2023 advisory. Useful for the public-health framing around social media risk, uncertainty, harmful content, cyberbullying, body image, heavy use, and sleep displacement. <https://www.hhs.gov/surgeongeneral/reports-and-publications/youth-mental-health/social-media/index.html>
 
-[^cde-ai]: California Department of Education, "Learning With AI, Learning About AI," 2025 guidance. <https://www.cde.ca.gov/ci/pl/aiincalifornia.asp>
+[^apa-social]: American Psychological Association, "Health Advisory on Social Media Use in Adolescence." Useful because it is conditional rather than absolutist: age-appropriate design, adult monitoring for younger adolescents, social media literacy, and limits that protect sleep and physical activity. <https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use>
 
-[^unesco-ai]: UNESCO, "AI Competency Framework for Students." <https://www.unesco.org/en/articles/ai-competency-framework-students>
+[^pew-teen-2025]: Michelle Faverio and Olivia Sidoti, "Teens, Social Media and AI Chatbots 2025," Pew Research Center, December 9, 2025. Useful current data on teen platform use, near-constant use, and teen AI chatbot use. <https://www.pewresearch.org/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025/>
 
-[^wef]: World Economic Forum, "Future of Jobs Report 2025." <https://www.weforum.org/press/2025/01/future-of-jobs-report-2025-78-million-new-job-opportunities-by-2030-but-urgent-upskilling-needed-to-prepare-workforces/>
+[^shields]: UK Parliament, Baroness Shields parliamentary career, and GOV.UK biography. Used to identify Joanna Shields' official UK roles, including her House of Lords career and government work connected to internet safety and security. <https://members.parliament.uk/member/4325/career> and <https://www.gov.uk/government/people/baroness-joanna-shields>
 
-[^microsoft]: Microsoft, "2025 Work Trend Index." <https://news.microsoft.com/en-cee/2025/04/24/microsofts-2025-work-trend-index-report-reveals-the-rise-of-the-frontier-firm-marking-a-new-era-of-workforce-dynamics-2/>
+[^online-safety]: GOV.UK, "Online Safety Act." Official UK government collection for the Online Safety Act and related materials. <https://www.gov.uk/government/collections/online-safety-act>
 
-[^mckinsey]: McKinsey, "The state of AI in 2025." <https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai>
+[^eu-minors]: European Commission, "Commission publishes guidelines on the protection of minors under the Digital Services Act." Useful for the EU framing around minors, grooming, harmful content, addictive or problematic behavior, cyberbullying, and harmful commercial practices. <https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-protection-minors>
 
-[^ftc-coppa]: Federal Trade Commission, "Children's Online Privacy Protection Rule: A Six-Step Compliance Plan." <https://www.ftc.gov/business-guidance/resources/childrens-online-privacy-protection-rule-six-step-compliance-plan-your-business>
+[^australia-age]: Australian eSafety Commissioner, "Social media age restrictions." Official Australian source on the under-16 social-media minimum-age framework. <https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions>
 
-[^ed-pii]: U.S. Department of Education Student Privacy Policy Office, "Personally Identifiable Information for Education Records." <https://studentprivacy.ed.gov/content/personally-identifiable-information-education-records>
+[^cde-cs]: California Department of Education, "Computer Science Standards Guidelines," and "Search the California Content Standards: Computer Science." Useful for K-12 computer science as an established California education goal, including equity/access, creativity, grade-band progression, device use, algorithms, and troubleshooting. <https://www.cde.ca.gov/be/st/ss/compsciguidelines.asp> and <https://www2.cde.ca.gov/cacs/cs>
 
-[^ed-ferpa]: U.S. Department of Education Student Privacy Policy Office, "FAQs on Photos and Videos under FERPA." <https://studentprivacy.ed.gov/faq/faqs-photos-and-videos-under-ferpa>
+[^usdoe-ai]: U.S. Department of Education, Office of Educational Technology, "Artificial Intelligence and the Future of Teaching and Learning: Insights and Recommendations," May 2023. Useful for the governance framing around AI in education, including pattern detection, automated decisions, bias, privacy, and policy development. <https://eric.ed.gov/?id=ED631097>
 
-[^meta-family]: Meta, "Raising Awareness About Youth Safety Tools on Instagram." <https://about.fb.com/news/2023/05/raising-awareness-about-youth-safety-tools-on-instagram/>
+[^cde-ai]: California Department of Education, "Learning With AI, Learning About AI," 2025 guidance. Useful because it defines agentic/autonomous AI and frames TK-12 AI education around human-centered use, privacy, academic integrity, creativity, critical thinking, and responsible implementation. <https://www.cde.ca.gov/ci/pl/aiincalifornia.asp>
 
-[^meta-ads]: Meta, "Continuing to Create Age-Appropriate Ad Experiences for Teens." <https://about.fb.com/news/2023/01/age-appropriate-ads-for-teens/amp/>
+[^unesco-ai]: UNESCO, "AI Competency Framework for Students." Useful for framing students as responsible co-creators of AI systems, not merely passive users. <https://www.unesco.org/en/articles/ai-competency-framework-students>
 
-[^ftc-stealth]: Federal Trade Commission, "Protecting Kids from Stealth Advertising in Digital Media." <https://www.ftc.gov/reports/protecting-kids-stealth-advertising-digital-media-ftc-staff-perspective>
+[^wef]: World Economic Forum, "Future of Jobs Report 2025." Used for the broad workforce signal that AI, big data, cybersecurity, networks, and technology literacy are fast-growing skill areas. <https://www.weforum.org/press/2025/01/future-of-jobs-report-2025-78-million-new-job-opportunities-by-2030-but-urgent-upskilling-needed-to-prepare-workforces/>
 
-[^ftc-screens]: Federal Trade Commission, "A Look Behind the Screens: Examining the Data Practices of Social Media and Video Streaming Services." <https://www.ftc.gov/reports/look-behind-screens-examining-data-practices-social-media-video-streaming-services>
+[^microsoft]: Microsoft, "2025 Work Trend Index." Used for the workplace shift toward human-AI teams and agent management. <https://news.microsoft.com/en-cee/2025/04/24/microsofts-2025-work-trend-index-report-reveals-the-rise-of-the-frontier-firm-marking-a-new-era-of-workforce-dynamics-2/>
 
-[^merger-guidelines]: Federal Trade Commission and Department of Justice, "2023 Merger Guidelines." <https://www.ftc.gov/news-events/news/press-releases/2023/12/federal-trade-commission-justice-department-release-2023-merger-guidelines>
+[^mckinsey]: McKinsey, "The state of AI in 2025." Used for broad AI adoption and experimentation with AI agents across organizations. <https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai>
+
+[^ftc-coppa]: Federal Trade Commission, "Children's Online Privacy Protection Rule: A Six-Step Compliance Plan." Useful for the breadth of children's personal information under COPPA, including identifiers, photos, videos, audio, geolocation, and persistent identifiers. <https://www.ftc.gov/business-guidance/resources/childrens-online-privacy-protection-rule-six-step-compliance-plan-your-business>
+
+[^ed-pii]: U.S. Department of Education Student Privacy Policy Office, "Personally Identifiable Information for Education Records." Useful for direct and indirect identifiers in student records. <https://studentprivacy.ed.gov/content/personally-identifiable-information-education-records>
+
+[^ed-ferpa]: U.S. Department of Education Student Privacy Policy Office, "FAQs on Photos and Videos under FERPA." Useful for the point that school-maintained photos and videos can become education records depending on context. <https://studentprivacy.ed.gov/faq/faqs-photos-and-videos-under-ferpa>
+
+[^ed-online-services]: U.S. Department of Education Student Privacy Policy Office / Privacy Technical Assistance Center, "Protecting Student Privacy While Using Online Educational Services: Requirements and Best Practices," February 2014. Useful for school use of third-party software, mobile apps, and web tools. <https://studentprivacy.ed.gov/resources/protecting-student-privacy-while-using-online-educational-services-requirements-and-best>
+
+[^ed-tos]: U.S. Department of Education Student Privacy Policy Office / Privacy Technical Assistance Center, "Protecting Student Privacy While Using Online Educational Services: Model Terms of Service," March 2016. Useful as a checklist for evaluating educational apps' terms, collection, use, transmission, security, and privacy commitments. <https://studentprivacy.ed.gov/resources/protecting-student-privacy-while-using-online-educational-services-model-terms-service>
+
+[^meta-family]: Meta, "Raising Awareness About Youth Safety Tools on Instagram." Used as an example of parent-, caregiver-, and family-facing safety marketing. <https://about.fb.com/news/2023/05/raising-awareness-about-youth-safety-tools-on-instagram/>
+
+[^meta-ads]: Meta, "Continuing to Create Age-Appropriate Ad Experiences for Teens." Useful because Meta itself acknowledges that teens are less equipped than adults to make decisions about how their data is used for advertising, while describing its teen ad restrictions. <https://about.fb.com/news/2023/01/age-appropriate-ads-for-teens/amp/>
+
+[^ftc-stealth]: Federal Trade Commission, "Protecting Kids from Stealth Advertising in Digital Media." Useful for ad formats blended into games, influencer content, social media, video, and immersive environments. <https://www.ftc.gov/reports/protecting-kids-stealth-advertising-digital-media-ftc-staff-perspective>
+
+[^ftc-screens]: Federal Trade Commission, "A Look Behind the Screens: Examining the Data Practices of Social Media and Video Streaming Services." Useful for data collection, targeted advertising incentives, safeguards for children and teens, and competition implications around data accumulation. <https://www.ftc.gov/reports/look-behind-screens-examining-data-practices-social-media-video-streaming-services>
+
+[^merger-guidelines]: Federal Trade Commission and Department of Justice, "2023 Merger Guidelines." Useful for the consolidation frame: platform markets, trends toward concentration, entrenchment of dominance, and serial acquisitions. <https://www.ftc.gov/news-events/news/press-releases/2023/12/federal-trade-commission-justice-department-release-2023-merger-guidelines>
