@@ -1,4 +1,13 @@
-### Living with a Family Member with a Traumatic Brain Injury
+---
+layout: default
+title: Family TBI Guide
+description: A practical family-facing guide for supporting someone living with a traumatic brain injury.
+page_class: article-page
+---
+
+This guide collects practical notes, support patterns, and working ideas for families navigating life with a traumatic brain injury.
+
+## Guide at a glance
 
 #### Introduction
 - Brief overview of TBI and its impact
