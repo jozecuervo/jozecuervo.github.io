@@ -1,4 +1,4 @@
-# The Accidental Control Plane
+# The Accidental Cognitive Prosthetic
 
 *How a staff engineer built a reviewable cognitive prosthetic without realizing it.*
 
