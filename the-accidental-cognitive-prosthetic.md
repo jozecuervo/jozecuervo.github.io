@@ -88,7 +88,7 @@ I do not want to overstate the anecdote. Having lunch with Engelbart did not mak
 
 ## Why This Was Not Just Productivity
 
-In September 2022, I had a 4.5cm benign meningioma removed from near my frontal and temporal lobe at USC. I wrote publicly about the recovery in a 2024 NextRoll post. The line people remembered was that returning to my old code felt like receiving postcards from a past version of myself.
+In September 2022, I had a 4.5cm benign meningioma removed from near my frontal and temporal lobe at USC. I wrote publicly about the recovery in [a 2024 NextRoll post](https://www.nextroll.com/blog/thought-piece/thriving-together-my-journey-through-brain-injury-with-nextroll-s-support). The line people remembered was that returning to my old code felt like receiving postcards from a past version of myself.
 
 That was not a metaphor I invented for a nice essay. It was a literal description of re-entry.
 
@@ -305,7 +305,7 @@ That is the path that feels real to me now: not "launch a brain injury app," but
 
 ## The Postcards, Revisited
 
-In the 2024 post, I wrote that reading my old code comments during recovery felt like receiving postcards from a past version of myself.
+In that 2024 post, I wrote that reading my old code comments during recovery felt like receiving postcards from a past version of myself.
 
 I still think that is the right image.
 
@@ -336,6 +336,7 @@ I built it for Jira tickets. I think it wants to become something more humane th
 ## References
 
 - CDC. "Facts About TBI." Updated August 4, 2025. https://www.cdc.gov/traumatic-brain-injury/data-research/facts-stats/index.html
+- Hernandez, J. (2024). "Thriving Together: My Journey Through Brain Injury with NextRoll's Support." *The NextRoll Blog*, June 17, 2024. https://www.nextroll.com/blog/thought-piece/thriving-together-my-journey-through-brain-injury-with-nextroll-s-support
 - Wilson, B.A., Emslie, H.C., Quirk, K., & Evans, J.J. (2001). "Reducing everyday memory and planning problems by means of a paging system: A randomised control crossover study." *Journal of Neurology, Neurosurgery & Psychiatry*, 70, 477-482. Cambridge MRC CBU listing: https://www.mrc-cbu.cam.ac.uk/publications/articles/4145/
 - Velikonja, D., Ponsford, J., Janzen, S., Harnett, A., Patsakos, E., Kennedy, M., Togher, L., Teasell, R., McIntyre, A., Welch-West, P., Kua, A., & Bayley, M.T. (2023). "INCOG 2.0 Guidelines for Cognitive Rehabilitation Following Traumatic Brain Injury, Part V: Memory." *Journal of Head Trauma Rehabilitation*, 38(1), 83-102. https://research.monash.edu/en/publications/incog-20-guidelines-for-cognitive-rehabilitation-following-trauma-3/
 - Ownsworth, T., Mitchell, J., Griffin, J., Bell, R., Gibson, E., & Shirota, C. (2023). "Electronic Assistive Technology to Support Memory Function After Traumatic Brain Injury: A Systematic Review of Efficacy and User Perspectives." *Journal of Neurotrauma*, 40(15-16), 1533-1556. https://journals.sagepub.com/doi/full/10.1089/neu.2022.0434
