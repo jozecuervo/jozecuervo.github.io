@@ -3,6 +3,9 @@
 ### CONTACT
 Email: [me@jose.io](mailto:me@jose.io)
 
+### WRITING
+- [Screen Time Is the Wrong Question](screen-time-ai-literacy.html) - a parent and technologist's case for more creative computer time, less algorithmic consumption, and a better taxonomy for school technology.
+
 ### SUMMARY
 A seasoned Senior Software Engineer with over 20 years in the tech industry, blending full-stack development expertise with a keen focus on user experience and AI-driven solutions. Demonstrates a director-like approach to understanding and enhancing the user journey, paralleled with strong technical leadership and innovative design skills. Committed to mentoring talent and fostering collaborative team environments while driving technological advancements in high-profile projects.
 
