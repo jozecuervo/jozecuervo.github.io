@@ -1,5 +1,7 @@
 # José Miguel Hernandez
 
+Source for jozecuervo.github.io, a personal site with contact details, writing and links.
+
 ### CONTACT
 Email: [me@jose.io](mailto:me@jose.io)
 
